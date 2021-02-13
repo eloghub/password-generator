@@ -21,7 +21,11 @@ Acceptable Criteria DESCRIPTION:
 
 NOTES/CHALLENGES:
 
-+
++lines 20-25 (HTML) - textarea tag?
+
++line 91 (CSS) - button disabled?
+
++line 6 (JS) - "generatePassword" is not yet defined in the starter code
 
 
 SCREENSHOT:
