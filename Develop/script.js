@@ -1,3 +1,11 @@
+window.alert("Your password can be between 8 and 128 characters")
+window.alert("Would you like numbers in your password?")
+window.alert("Would you like special characters in your password?")
+
+var letter = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
+var number = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"];
+var special = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "_", "=", "+", "{", "}", ":", ",", ".", "/", "?"];
+
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
